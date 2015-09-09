@@ -1,0 +1,1 @@
+A tutorial for Spring and GWT Integration using Maven and GWTHandler
